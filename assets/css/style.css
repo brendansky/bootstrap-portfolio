@@ -1,8 +1,3 @@
-.row{
-    border: solid 1px black;
-
-}
-
 body{
     font-family: Arial, 'Helvetica neue', Helvetica, sans-serif;
     color: #777777;
@@ -14,6 +9,8 @@ body{
 
 .container{
     margin-top: 30px;
+    margin-bottom: 200px;
+    
 
 }
 
@@ -88,7 +85,6 @@ aside{
 
 }
 
-
 .contact-reply{
     font-size: 12px;
     padding: 5px;
@@ -113,8 +109,6 @@ button{
 .portfolio{
     border: solid 3px #dddddd;
     background-color: #ffffff;
-
-
 }
 
 .portfolio-item{
@@ -122,12 +116,12 @@ button{
     margin: 20px;
     position: relative;
     float: left;
-
 }
 
 .portfolio-pic{
-    width: 265px;
+    width: 100%;
 }
+
 
 .portfolio-text{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -136,9 +130,9 @@ button{
     vertical-align: 50%;
     background-color: #4aaaa5;
     text-align: center;
-    height: 30%;
     width: 100%;
     position: absolute;
+    bottom: 3px;
 }
 
 footer{
