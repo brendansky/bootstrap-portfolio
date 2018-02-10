@@ -35,6 +35,8 @@ h2{
     color: #4aaaa5;
     border-bottom: solid 3px #dddddd;
     margin-top: 20px;
+    margin-bottom: 20px;
+
 }
 h3{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -59,7 +61,7 @@ h3{
 .about-me{
     margin: 20px;
 }
-aside{
+.aside{
 
     line-height: 40px;
     border: solid 3px #dddddd;
