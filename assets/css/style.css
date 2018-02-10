@@ -105,9 +105,40 @@ aside{
 button{
     color: #dddddd;
     background-color: #4aaaa5;
-    margin-left: 20px;
+    margin-bottom: 20px;
     height: 40px;
     width: 100px;
+}
+
+.portfolio{
+    border: solid 3px #dddddd;
+    background-color: #ffffff;
+
+
+}
+
+.portfolio-item{
+    width: 265px;
+    margin: 20px;
+    position: relative;
+    float: left;
+
+}
+
+.portfolio-pic{
+    width: 265px;
+}
+
+.portfolio-text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    font-size: 20px;
+    vertical-align: 50%;
+    background-color: #4aaaa5;
+    text-align: center;
+    height: 30%;
+    width: 100%;
+    position: absolute;
 }
 
 footer{
