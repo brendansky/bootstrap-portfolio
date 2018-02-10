@@ -1,0 +1,103 @@
+.row{
+    border: solid 1px black;
+
+}
+
+body{
+    font-family: Arial, 'Helvetica neue', Helvetica, sans-serif;
+    color: #777777;
+    background-color:gray;
+    background-image: url("../images/mocha_grunge.png");
+    margin: 0%;
+    font-size: 16px;
+}
+
+.container{
+    margin-top: 30px;
+
+}
+
+.header{
+    background-color: #ffffff;
+    border-bottom: solid 3px #cccccc;
+    z-index: 2;
+    
+}
+
+h1{
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+    border: solid 1px black;
+
+
+
+
+
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    border-bottom: solid 3px #dddddd;
+    margin-top: 20px;
+    border: solid 1px black;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    border-bottom: solid 3px #dddddd;
+    margin-top: 20px;
+    text-align: center;
+    border: solid 1px black;
+}
+
+.profile{
+    float: left;
+    border: solid 3px #dddddd;
+    background-color: #ffffff;
+
+}
+.profile-pic{
+    margin-right: 10px;
+    height: 200px;
+    width: 225px;
+    float: left;
+}
+.about-me{
+    margin: 20px;
+}
+aside{
+
+    line-height: 40px;
+    border: solid 3px #dddddd;
+    background-color: #ffffff;
+
+}
+.other-websites{
+    margin: 10px;
+    padding-bottom: 10px;
+}
+
+.icon{
+    margin: 4px;
+    height: 55px;
+    width: 55px;
+}
+
+footer{
+    color: #dddddd;
+    height: 40px;
+    width: 100%;
+    background-color: #666666;
+    border-top: solid 5px #4aaaa5;
+    font-size: 12px;
+    text-align: center;
+    position: fixed;
+    bottom: 0%;
+    line-height: 35px;
+}
+
+    
