@@ -30,7 +30,6 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 0px;
     padding: 0px;
-    border: solid 1px black;
 
 }
 
@@ -39,7 +38,6 @@ h2{
     color: #4aaaa5;
     border-bottom: solid 3px #dddddd;
     margin-top: 20px;
-    border: solid 1px black;
 }
 h3{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -47,7 +45,6 @@ h3{
     border-bottom: solid 3px #dddddd;
     margin-top: 20px;
     text-align: center;
-    border: solid 1px black;
 }
 
 .profile{
@@ -81,6 +78,36 @@ aside{
     margin: 4px;
     height: 55px;
     width: 55px;
+}
+
+.contact-form{
+
+    border: solid 3px #dddddd;
+    background-color: #ffffff;
+
+
+}
+
+
+.contact-reply{
+    font-size: 12px;
+    padding: 5px;
+    color: #dddddd;
+    border: solid 1px #dddddd;
+
+}
+.message-field{
+    height: 100px;
+    border: solid 1px #dddddd;
+
+
+}
+button{
+    color: #dddddd;
+    background-color: #4aaaa5;
+    margin-left: 20px;
+    height: 40px;
+    width: 100px;
 }
 
 footer{
